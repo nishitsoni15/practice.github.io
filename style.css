@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .grid-container{
+    background: blue;
+    border: 3px solid darkblue;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 600px;
+    
+}
+.grid-item{
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+} */
+div{
+    width: 100px;
+    height: 100px;
+    box-shadow:   2px 5px rgb(20, 25,30, 0.5);
+    margin: 20px auto;
+    max-width: 1200px;
+    border: 1px solid black;
+}
+/* .div1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  } */
